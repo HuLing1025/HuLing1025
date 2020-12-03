@@ -9,7 +9,6 @@
 ​	位置：重庆
 <br>
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![C#](https://img.shields.io/badge/C#-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
@@ -21,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuLing1025&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)<br>
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -30,6 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=HuLing1025&show_icons=true&theme=cobalt) <br>
 
