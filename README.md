@@ -1,6 +1,6 @@
 ### :sunglasses: About
 
-​	Hi！最佳bug奖🙉 
+​	Me: 年度最佳bug奖
 
 ​	后端：Most
 
@@ -23,7 +23,6 @@
 
 ### 开发语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuLing1025&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)<br>
-Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
