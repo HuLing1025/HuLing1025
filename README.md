@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HuLing1025)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuLing1025)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuLing1025&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=HuLing1025&show_icons=true&theme=cobalt) <br>
 ### :sunglasses: About
 
