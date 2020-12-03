@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### :sunglasses: About
 
-​	Hi！🙉
+​	Hi！🙉 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuLing1025&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ​	后端：🔆🉑
 
@@ -9,7 +9,6 @@
 
 ​	位置：㊙
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuLing1025&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=HuLing1025&show_icons=true&theme=cobalt) <br>
 
